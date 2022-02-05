@@ -68,7 +68,7 @@ const map = {
     name: "Peasant's wife",
     color: "white",
     story: [
-      "Hi. My husband and I couldn't help but notice that you seem to be lost. Would you like some help?",
+      "Hi. My husband and I couldn't help but to notice that you seem to be lost. Would you like some help?",
     ],
   },
 };
