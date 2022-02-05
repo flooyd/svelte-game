@@ -3,7 +3,8 @@
 </script>
 
 <div class="container">
-  <h1 class="game">The Game</h1>
+  <h1 class="game mb-10">The Game</h1>
+  <div class="thirteen">Press E to interact</div>
   <div class="twenty mtb-10">
     <span class="bold">Landscape: </span>
     <span class="mlr-10">Desert</span>
